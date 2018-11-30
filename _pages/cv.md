@@ -50,7 +50,7 @@ Skills
   * Inkscrape
 * Languages
   * Thai: Native 
-  * English fluent (speaking, reading, writing)
+  * English: fluent (speaking, reading, writing)
   * Japanese: intermediate (speaking, reading, writing) 
 
 Publications
