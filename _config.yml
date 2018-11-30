@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "My academic site"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+#   path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "LordVis"
 facebook:
-  username               :
+  username               : "noppon.keeratiworanan"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nopphon Keerativoranan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctoral student at Takada Lab"
   location         : "Tokyo Institue of Technology"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=36wHKe0AAAAJ&hl=en"
