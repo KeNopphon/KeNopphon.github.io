@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * May 2011 - Jun 2011: Internship
-  * Optical and Quantum Communication (OQC),National Electronics and Computer Technology Center (NECTEC)
+  * Optical and Quantum Communication (OQC), National Electronics and Computer Technology Center (NECTEC)
   * Researched in the topic of visible light communication
 
 * May 2012 - Dec 2012: Operational Engineer
@@ -26,7 +26,7 @@ Work experience
   * Duties included: Service operation and support
 
 * Aug 2015 - Feb 2016: Research Assistant
-  * [ITS Lab](https://wapst7.wixsite.com/traffy), National Electronics and Computer Technology Center (NECTEC)
+  * Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy), National Electronics and Computer Technology Center (NECTEC)
   * Duties included: Data analysis
   * Supervisor: Dr. Wasan Pattara-Atikom
 
