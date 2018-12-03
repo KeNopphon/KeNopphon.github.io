@@ -17,12 +17,15 @@ Education
 
 Work experience
 ======
-* Fall 2015: Operational Engineer
+* May 2011 - Jun 2011: Internship
+  * Optical and Quantum Communication (OQC),National Electronics and Computer Technology Center (NECTEC)
+  * Researched in the topic of visible light communication
+
+* May 2012 - Dec 2012: Operational Engineer
   * Advanced Info Service Plc [(AIS)](http://www.ais.co.th/en/)
   * Duties included: Service operation and support
 
-
-* 2015: Research Assistant
+* Aug 2015 - Feb 2016: Research Assistant
   * [ITS Lab](https://wapst7.wixsite.com/traffy), National Electronics and Computer Technology Center (NECTEC)
   * Duties included: Data analysis
   * Supervisor: Dr. Wasan Pattara-Atikom
@@ -59,13 +62,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Workshops and Conferences 
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-<!--   
-Teaching
+  
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -73,5 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
- -->
+* Currently signed in to 43 different slack teams -->

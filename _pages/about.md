@@ -13,7 +13,7 @@ My main research is related with a non-intrusive hand motion tracking using comm
 
 Prior to the doctoral program, I received Master of Sciece in Computer Science at Seoul National University, South Korea. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok.  
 
-Apart from my own research, I am also working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant. Being assigned to OEDO's analytic team, I has been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
+Apart from my own research, I am also working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
 
 
 
