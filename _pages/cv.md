@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Electrical and Computer Engineering, Thammasat University, Thailand, 2012
-* M.S. in Computer Science and Engineering, Seoul National University, 2013
+* M.S. in Computer Science and Engineering, Seoul National University, 2015
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
