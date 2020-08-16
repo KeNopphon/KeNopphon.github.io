@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistance"
+title: "Teaching Assistance in Social Design Project"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/teaching-2
