@@ -2,7 +2,7 @@
 title: "Teaching Assistance"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-2
 venue: "Tokyo Institute of Technology"
 date: 2018/06/14
 location: "Tokyo, Japan"
