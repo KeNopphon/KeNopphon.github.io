@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistance"
+title: "Teaching Assistance in Introductory Course for Global Scientists and Engineers"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
