@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistance"
+title: "Teaching Assistance in Statistics and Data Analysis"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/teaching-3
