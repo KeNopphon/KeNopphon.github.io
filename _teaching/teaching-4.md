@@ -1,5 +1,5 @@
 ---
-title: "Teaching and Research Assistance"
+title: "Teaching Assistance in Online course"
 collection: teaching
 type: "Online Undergraduate and Graduate Course"
 permalink: /teaching/teaching-4
