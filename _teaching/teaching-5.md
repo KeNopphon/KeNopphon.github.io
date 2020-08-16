@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistance"
+title: "English Teaching Assistance at Tokyo Global Gateway"
 collection: teaching
 type: "English Course"
 permalink: /teaching/teaching-5
