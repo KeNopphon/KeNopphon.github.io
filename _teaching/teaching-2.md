@@ -3,7 +3,7 @@ title: "Teaching Assistance"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Tokyo Institute of Technology, Department of Transdisciplinary Science and Engineering"
+venue: "Tokyo Institute of Technology"
 date: 2018/06/14
 location: "Tokyo, Japan"
 ---
