@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical and Computer Engineering, Thammasat University, Thailand, 2012
+* B.E. in Electrical and Computer Engineering, Thammasat University, Thailand, 2012
 * M.S. in Computer Science and Engineering, Seoul National University, 2015
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* D.E. in Global Engineering and Development, Environment and Society (Wireless Communication Engieeering), Tokyo Institute of Technology, 2020 
 
 Work experience
 ======
@@ -29,6 +29,11 @@ Work experience
   * Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy), National Electronics and Computer Technology Center (NECTEC)
   * Duties included: Data analysis
   * Supervisor: Dr. Wasan Pattara-Atikom
+
+* May 2017 - Sep 2020: Teaching/Research Assistant
+  * Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en), Tokyo Institute of Technology
+  * Duties included: Machine learning and Data analysis on the online course development
+  * Supervisor: Prof. Jeffrey S. Cross.
 
 
  <!--  * Supervisor: Professor Hub -->
