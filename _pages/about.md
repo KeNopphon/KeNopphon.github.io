@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a researcher in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in advanced research related to mobile communications.
+Hi, I am a researcher in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in a research related to a wireless anc mobile communications.
 
-My main research is related with a non-intrusive hand motion tracking using commercial Wi-Fi devices, specifically utlizing Wi-Fi channel state information (CSI) to analyze Doppler frequency shift caused by the motion. Moreover, I have experienced with the implementation of Universal Software Radio Periphera (USRP) for radio propagation and indoor positioning related researches.
+My field of expertise is related to a radio propagation, channel modeling, and indoor localization and tracking. I have experienced with the universal software radio peripheral (USRP), vector network analyzer (VNA), spectrum analyzer, and signal generator for the radio-propagation-related researches. In additiona, I can work with the off-the-shelf Wi-Fi Channel State information for a motion sensing application and system.
 
-I received Master of Sciece in Computer Science at Seoul National University, South Korea. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok.  
+I received the Bacher of Engineering (BE) degree in Electrical Engineering with the first honour from Thammasat University in 2012. Befor going to a graduate school, I worked as a operational Engineer in Advance Info Service, one of the top Telecommunication company in Thailand. I received the Master of Sciece (MS) degree in Computer Science from Seoul National University, South Korea, in 2015. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok. I was granted the Japanese Government Scholarship (MEXT scholarship) for my Doctoral course at Tokyo Institute of Technology and earned the Doctoral of Engineering (DE) in Global Engineering and Development, Environment and Society, in 2020.
 
-Apart from my own research, I was working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
+
+Apart from my main research, I was working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant during my Doctoral course. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
+
+
+
 
 
 
