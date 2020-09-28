@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a doctoral student under the supervision of [Prof.Jun-ichi Takada](http://www.ap.ide.titech.ac.jp/~takada/index-e.html) in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in advanced research related to mobile communications.
+Hi, I am a researcher in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in advanced research related to mobile communications.
 
 My main research is related with a non-intrusive hand motion tracking using commercial Wi-Fi devices, specifically utlizing Wi-Fi channel state information (CSI) to analyze Doppler frequency shift caused by the motion. Moreover, I have experienced with the implementation of Universal Software Radio Periphera (USRP) for radio propagation and indoor positioning related researches.
 
-Prior to the doctoral program, I received Master of Sciece in Computer Science at Seoul National University, South Korea. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok.  
+I received Master of Sciece in Computer Science at Seoul National University, South Korea. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok.  
 
-Apart from my own research, I am also working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
+Apart from my own research, I was working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en) as research and teaching assistant. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
 
 
 
