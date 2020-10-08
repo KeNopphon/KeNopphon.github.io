@@ -1,7 +1,7 @@
 ---
 title: "Non-Intrusive Hand Trajectory Estimation Framework Utilizing Channel State Information of commodity Wi-Fi devices"
 collection: publications
-permalink: /publication/paper-number-6
+permalink: /publication/paper-number-7
 excerpt: 'Doctoral Dissertation'
 date: 2020-09-25
 venue: 'Tokyo Institute of Technology'
