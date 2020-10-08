@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Non-Intrusive Hand Trajectory Tracking by Utilizing Micro-Doppler Signature Obtained From Wi-Fi Channel State Information"
 collection: Jornal publication
-permalink: /publication/paper-number-4
+permalink: /publication/paper-number-7
 date: 2020-09-25
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9205913'
