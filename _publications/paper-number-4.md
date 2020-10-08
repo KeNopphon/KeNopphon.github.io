@@ -2,6 +2,7 @@
 title: "Mitigation of CSI Temporal Phase Rotation with B2B Calibration Method for Fine-Grained Motion Detection Analysis on Commodity Wi-Fi Devices"
 collection: Jornal publication
 permalink: /publication/paper-number-4
+excerpt: '1st author'
 date: 2018-11-6
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/18/11/3795'
