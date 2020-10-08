@@ -9,6 +9,7 @@ location: "Milwaukee, WI, USA"
 ---
 
 [More information here](http://lwmoocs-conference.org/lwmoocs2019/index.php)
+
 [Download proceeding here](https://ieeexplore.ieee.org/document/8939617)
 
 
