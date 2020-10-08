@@ -1,7 +1,7 @@
 ---
 title: "Vertical and Horizontal Building Entry Loss Measurement in 4.9 GHz Band by Unmanned Aerial Vehicle"
 collection: publications
-permalink: /publication/paper-number-2
+permalink: /publication/paper-number-3
 excerpt: '3rd author of this paper'
 date: 2018-10-09
 venue: ' IEEE Wireless Communications Letters'
