@@ -6,7 +6,7 @@ excerpt: '3rd author of this paper'
 date: 2018-10-09
 venue: ' IEEE Wireless Communications Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/8486702'
-citation: 'K. Saito, Q. Fan, N. Keerativoranan and J. Takada, Vertical and Horizontal Building Entry Loss Measurement in 4.9 GHz Band by Unmanned Aerial Vehicle in <i>IEEE Wireless Communications Letters</i>.'
+citation: 'K. Saito, Q. Fan, N. Keerativoranan and J. Takada, "Vertical and Horizontal Building Entry Loss Measurement in 4.9 GHz Band by Unmanned Aerial Vehicle," <i>IEEE Wireless Communications Letters</i>, vol. 8, no. 2, pp. 444-447, Oct. 2018.'
 ---
 3rd author of this paper
 
