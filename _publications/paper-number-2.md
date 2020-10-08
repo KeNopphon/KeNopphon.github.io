@@ -1,7 +1,7 @@
 ---
 title: "Indoor Localization based on Time-of-Flight Fingerprinting "
 collection: publications
-permalink: /publication/paper-number-3
+permalink: /publication/paper-number-2
 excerpt: 'Master Thesis'
 date: 2015-02-28
 venue: 'Seoul National University'
