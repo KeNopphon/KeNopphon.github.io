@@ -2,7 +2,7 @@
 title: "A Method of Interoperating Heterogeneous Simulation Middleware for L-V-C Combined Environment"
 collection: publications
 permalink: /publication/paper-number-1
-excerpt: '4th author of this paper'
+excerpt: '4th author'
 date: 2015-02-15
 venue: 'Journal of Korean Institute of Information Scientists and Engineers'
 paperurl: 'https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201507158234846&dbt=NART'
