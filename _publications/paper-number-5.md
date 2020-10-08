@@ -1,7 +1,7 @@
 ---
 title: "Site-Specific Propagation Loss Prediction in 4.9 GHz Band Outdoor-to-Indoor Scenario "
 collection: Jornal publication
-permalink: /publication/paper-number-4
+permalink: /publication/paper-number-5
 excerpt: '3rd author of this paper'
 date: 2019-11-23
 venue: 'MDPI Electronics'
