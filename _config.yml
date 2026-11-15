@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "LordVis"
+  username               :
 facebook:
   username               : "noppon.keeratiworanan"
   app_id                 :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "nopphon-keerativoranan-282b99116"
+  linkedin         :
   orcid            : "https://orcid.org/0000-0003-2843-5869"
   researchmap      : "https://researchmap.jp/nopphon_ke"
   pinterest        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LordVis"
+  twitter          :
   vine             :
   weibo            :
   xing             :

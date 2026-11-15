@@ -41,8 +41,9 @@ Work experience
 * Oct 2020 – Mar 2024: **Research Staff**
   * Takada Laboratory, School of Environment and Society, Tokyo Institute of Technology
   * Research on the development of a cyber-physical system emulator
-* May 2017 – Aug 2020: **Teaching Assistant**
-  * Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en), Tokyo Institute of Technology
+* May 2017 – 2026: **Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en)**
+  * Tokyo Institute of Technology / Institute of Science Tokyo
+  * Started as a Teaching Assistant during the doctoral course (May 2017 – Aug 2020)
   * Software and program development for an online course development toolkit
 * Aug 2015 – Feb 2016: **Research Assistant**
   * Intelligent Transportation Systems Laboratory, National Electronics and Computer Technology Center (NECTEC), Thailand
