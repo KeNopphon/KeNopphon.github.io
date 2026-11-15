@@ -9,22 +9,22 @@ redirect_from:
 ---
 > **Note:** My most up-to-date profile, publications, and activities are maintained on [researchmap](https://researchmap.jp/nopphon_ke).
 
-Hi, I am a researcher in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in a research related to a wireless anc mobile communications.
+Hi, I am an Assistant Professor in the Antenna and Propagation Laboratory (a.k.a. [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan.
 
-My field of expertise is related to a radio propagation, channel modeling, and indoor localization and tracking. I have experienced with the universal software radio peripheral (USRP), vector network analyzer (VNA), spectrum analyzer, and signal generator for the radio-propagation-related researches. Additionally, I also work with the off-the-shelf Wi-Fi Channel State information for a motion sensing application and system.
+My research focuses on radio propagation and channel modeling for wireless communication and sensing. Current topics include:
 
-I received the Bachelor of Engineering (BE) degree in Electrical Engineering with the first honour from Thammasat University in 2012. Befor going to a graduate school, I worked as a operational Engineer in Advance Info Service, one of the top Telecommunication company in Thailand. I received the Master of Sciece (MS) degree in Computer Science from Seoul National University, South Korea, in 2015. After returning to Thailand, I started working at National Electronics and Computer Technology [(NECTEC)](https://www.nectec.or.th/en/) as the research assistant in Intelligent Transportation Systems Laboratory [(ITS Lab)](https://wapst7.wixsite.com/traffy). I was involved in the development of real-time bus tracking system in Bangkok. I was granted the Japanese Government Scholarship (MEXT scholarship) for my Doctoral course at Tokyo Institute of Technology and earned the Doctoral of Engineering (DE) in Global Engineering and Development, Environment and Society, in 2020.
+* Grid-based deterministic wireless channel emulation
+* Integrated sensing and communication (ISAC) and micro-Doppler modeling of human motion
+* Passive sensing using 5G mmWave beam-level RSRP and Wi-Fi channel state information
+* Physical optics, ray tracing, and radar cross section modeling
+* Reflector design for mmWave/THz coverage enhancement
+* Channel sounding and indoor localization
 
+I received the Bachelor of Engineering (B.Eng.) degree in Electrical Engineering from Thammasat University, Thailand, in 2012. I then worked as a telecommunication engineer at Advanced Info Service (AIS), one of the leading telecommunication companies in Thailand. I received the Master of Science (M.S.) degree from the Department of Electrical Engineering and Computer Science, Seoul National University, South Korea, in 2015. After returning to Thailand, I worked as a research assistant in the Intelligent Transportation Systems Laboratory at the National Electronics and Computer Technology Center [(NECTEC)](https://www.nectec.or.th/en/), where I was involved in research on traffic and public transportation. I was granted the Japanese Government (MEXT) Scholarship for my doctoral course at Tokyo Institute of Technology and received the Doctor of Engineering (D.Eng.) degree in Global Engineering for Development, Environment and Society in 2020.
 
-Apart from my main research, I was working with Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp) as research and teaching assistant during my Doctoral course. Being assigned to OEDO's analytic team, I have been given the opportunity to do a research in the field of natural language processing (NLP) with the goal to assess the quality of edX online courses which will eventually benefit to the improvement of the future Tokyo Tech online courses.
+After my doctorate, I worked as a research staff member at Takada Lab (2020–2024), where I worked on the development of a cyber-physical wireless channel emulator. I became a Specially Appointed Assistant Professor in January 2025 and an Assistant Professor in April 2025.
 
-
-
-
-
-
-
-
+Apart from my main research, I worked with the Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp) as a teaching assistant during my doctoral course, and later collaborated with Cross Lab on education technology, applying learning analytics and natural language processing to assess and improve the quality of online courses (MOOCs).
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

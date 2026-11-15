@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My academic site"
+title                    : "Nopphon Keerativoranan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Nopphon Keerativoranan"
+description              : &description "Assistant Professor at Institute of Science Tokyo — radio propagation, channel modeling, and wireless sensing"
 url                      : https://kenopphon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KeNopphon/KeNopphon.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nopphon Keerativoranan"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at Takada Lab"
-  location         : "Tokyo Institue of Technology"
+  bio              : "Assistant Professor, Takada Lab"
+  location         : "Institute of Science Tokyo, Japan"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=36wHKe0AAAAJ&hl=en"
   email            : "keerativoranan.n.aa@m.titech.ac.jp"
