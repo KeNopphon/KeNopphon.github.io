@@ -1,12 +1,16 @@
 ---
-title: "A Study of Hand Motion Trajectory Tracking by Utilizing Channel State Information of off-the-shelf Wi-Fi Devices"
-collection: Conference
-type: "Internaltional Conference (Poster)"
-permalink: /talks/talk-2
-venue: "Toyama International Conference Center and ANA Crowne Plaza Toyama"
+title: "A Study of Hand Motion Trajectory Tracking by Utilizing Channel State Information of Off-the-Shelf Wi-Fi Devices"
+collection: "talks"
+type: "Poster presentation"
+permalink: "/talks/2018-08-01-a-study-of-hand-motion-trajectory-tracking-by"
+venue: "40th Progress in Electromagnetics Research Symposium (PIERS 2018)"
 date: 2018-08-01
-location: "Toyama, Japan"
+location: "Japan"
+redirect_from:
+  - "/talks/talk-2"
 ---
+
+**Authors:** <b>Nopphon Keerativoranan</b>, Kentaro Saito, Jun-ichi Takada
 
 [More information here](http://www.piers.org/piers2018Toyama/)
 

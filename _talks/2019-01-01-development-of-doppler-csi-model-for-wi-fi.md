@@ -1,12 +1,16 @@
 ---
-title: "Development of Doppler CSI model for Wi-Fi based hand gesture detection application"
-collection: Conference
-type: "Domestic Conference (Oral)"
-permalink: /talks/talk-3
-venue: "The University of Tokyo, Komaba Campus"
-date: 2019-02-25
-location: "Tokyo, Japan"
+title: "Development of Doppler CSI Model for Wi-Fi Based Hand Gesture Detection Application"
+collection: "talks"
+type: "Technical report (workshop)"
+permalink: "/talks/2019-01-01-development-of-doppler-csi-model-for-wi-fi"
+venue: "IEICE Technical Report, vol. 118, no. 468"
+date: 2019-01-01
+location: "Japan"
+redirect_from:
+  - "/talks/talk-3"
 ---
+
+**Authors:** <b>Nopphon Keerativoranan</b>, Jun-ichi Takada
 
 [More information here](https://www.ieice.org/ken/paper/2019030531Kv/)
 

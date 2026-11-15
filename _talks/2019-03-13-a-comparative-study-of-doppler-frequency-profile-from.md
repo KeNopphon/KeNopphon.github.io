@@ -8,7 +8,7 @@ date: 2019-03-13
 location: "New Delhi, India"
 ---
 
-[More information here](http://aprasc2019.com/)
+[More information here](https://www.inrass.in/archive/aprasc2019/index.htm)
 
 <b> Abstract </b>
 Due to physical limitation of optical devices, the commercial device-free motion sensing applications are restricted to a small active sensing area and also cannot operate in certain scenarios such as a non-line-of-sight (NLoS) environment and private places, despite promising high accuracy and precision. As radio frequency signals are not constrained by these limitations, many researchers have attempted to improve the sensing performance under the above circumstances by exploiting channel state information (CSI) from commodity Wi-Fi devices. Although previous works have produced a fair result in hand motion sensing through pattern recognition approach, to the best of the authors' knowledge, there is no hand kinematic model that can explain the shape of speed profile for certain hand gestures derived from CSI. The lack of speed model makes the intensive analytical and simulation study in CSI-based motion sensing analysis more challenging.
