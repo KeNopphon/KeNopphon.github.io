@@ -21,6 +21,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "researchmap"
+    url: https://researchmap.jp/nopphon_ke
     
   # - title: "Guide"
   #   url: /markdown/

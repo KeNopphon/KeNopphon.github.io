@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> **Note:** My most up-to-date profile, publications, and activities are maintained on [researchmap](https://researchmap.jp/nopphon_ke).
+
 Hi, I am a researcher in Antenna and Propagation Laboratory (a.k.a [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Japan. Our laboratory is also a member of [MCRG](http://www.mcrg.ee.titech.ac.jp/) research group consisting of 7 laboratories working in a research related to a wireless anc mobile communications.
 
 My field of expertise is related to a radio propagation, channel modeling, and indoor localization and tracking. I have experienced with the universal software radio peripheral (USRP), vector network analyzer (VNA), spectrum analyzer, and signal generator for the radio-propagation-related researches. Additionally, I also work with the off-the-shelf Wi-Fi Channel State information for a motion sensing application and system.
