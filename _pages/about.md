@@ -9,7 +9,7 @@ redirect_from:
 ---
 > **Note:** My most up-to-date profile, publications, and activities are maintained on [researchmap](https://researchmap.jp/nopphon_ke).
 
-Hi, I am an Assistant Professor in the Antenna and Propagation Laboratory (a.k.a. [Takada Lab](http://www.ap.ide.titech.ac.jp/)), Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan.
+Hi, I am an Assistant Professor in the Antenna and Propagation Laboratory (a.k.a. [Takada Lab](http://tkdlab-isct.org/)), Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan.
 
 My research focuses on radio propagation and channel modeling for wireless communication and sensing. Current topics include:
 
