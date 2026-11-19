@@ -11,7 +11,7 @@ redirect_from:
 
 Current position
 ======
-* **Assistant Professor**, Takada Laboratory, Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo, Japan (Apr 2025 – present)
+* **Assistant Professor**, Takada Laboratory, Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo, Japan (Apr 2026 – present)
 
 Research interests
 ======
@@ -28,19 +28,14 @@ Education
 
 Work experience
 ======
-* Apr 2025 – present: **Assistant Professor**
+* Apr 2026 – present: **Assistant Professor**
   * Takada Laboratory, Department of Transdisciplinary Science and Engineering, School of Environment and Society, Institute of Science Tokyo
-* Jan 2025 – Mar 2025: **Specially Appointed Assistant Professor**
+* Jan 2025 – Mar 2026: **Specially Appointed Assistant Professor**
   * Takada Laboratory, School of Environment and Society, Institute of Science Tokyo
-* Oct 2024 – Dec 2024: **Research Staff**
-  * Takada Laboratory, School of Environment and Society, Institute of Science Tokyo
-  * Radio propagation for wireless communication and sensing
-* Apr 2024 – Sep 2024: **Research Staff**
-  * Takada Laboratory and Cross Laboratory, School of Environment and Society, Tokyo Institute of Technology
-  * Radio propagation for motion sensing (Takada Lab.) and education technology (Cross Lab.)
-* Oct 2020 – Mar 2024: **Research Staff**
+* Oct 2020 – Dec 2025: **Research Staff**
   * Takada Laboratory, School of Environment and Society, Tokyo Institute of Technology
   * Research on the development of a cyber-physical system emulator
+  * Radio propagation for wireless communication and sensing (Takada Lab.) and education technology (Cross Lab.)
 * May 2017 – 2026: **Online Education Development Office [(OEDO)](https://www.oedo.citl.titech.ac.jp/index-en)**
   * Tokyo Institute of Technology / Institute of Science Tokyo
   * Teaching Assistant during the doctoral course (May 2017 – Aug 2020)
